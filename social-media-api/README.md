@@ -17,33 +17,7 @@ A RESTful API for a social media platform built with Node.js and Express.js.
 
 ## Project Structure
 
-social-media-api/
-├── controllers/
-│   ├── userController.js
-│   ├── postController.js
-│   ├── commentController.js
-│   ├── likeController.js
-│   └── followerController.js
-├── routes/
-│   ├── users.js
-│   ├── posts.js
-│   ├── comments.js
-│   ├── likes.js
-│   └── followers.js
-├── middleware/
-│   ├── errorHandler.js
-│   ├── formatResponse.js
-│   └── async.js
-├── utils/
-│   ├── mockData.js
-│   └── errorResponse.js
-├── public/
-│   └── docs.html
-├── .env
-├── .gitignore
-├── server.js
-└── package.json
-
+![alt text](image.png)
 
 ## Security Features
 
